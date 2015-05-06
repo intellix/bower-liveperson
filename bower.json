@@ -1,0 +1,24 @@
+{
+  "name": "liveperson",
+  "version": "3.0.0",
+  "homepage": "https://github.com/intellix/bower-liveperson",
+  "authors": [
+    "Dominic Watson <dominic@euroslots.com>"
+  ],
+  "description": "LivePerson API",
+  "main": "liveperson.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "liveperson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
