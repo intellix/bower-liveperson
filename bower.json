@@ -6,7 +6,10 @@
     "Dominic Watson <dominic@euroslots.com>"
   ],
   "description": "LivePerson API",
-  "main": "liveperson.min.js",
+  "main": [
+    "liveperson.min.js",
+    "survey-logic-instance.min.js"
+  ],
   "moduleType": [
     "globals"
   ],
